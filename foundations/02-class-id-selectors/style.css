@@ -1,0 +1,21 @@
+.subsection {
+    background-color: pink;
+    color: black;
+    font-family: sans-serif;
+}
+
+.subsection.header {
+    font-size: 30px;
+}
+
+#first-id {
+    font-family: 'Times New Roman', Times, serif;
+    color: blue;
+    font-size: 50px;
+}
+
+#second-id {
+    font-size: 40px;
+    background-color: lightgreen;
+    font-weight: bold;
+}
